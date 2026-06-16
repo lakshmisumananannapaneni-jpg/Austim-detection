@@ -1,0 +1,30 @@
+1,A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score,A10_Score,age,gender,ethnicity,jundice,austim,contry_of_res,used_app_before,result,age_desc,relation,Class/ASD
+2,,,,,,,,,,,,,,,,,,,,,
+3,1,0,0,1,0,0,1,1,0,0,26,f,?,no,no,India,no,6,18 and more,Self,NO
+4,1,1,0,1,0,0,0,1,0,1,24,m,West India,no,yes,India,no,5,18 and more,Self,NO
+5,1,1,0,1,1,0,1,1,1,1,27,m,southIndia,yes,yes,India,no,8,18 and more,?,YES
+6,1,1,0,1,0,1,1,1,0,1,35,f,?,no,yes,India,no,6,18 and more,Self,NO
+7,1,0,0,0,0,0,0,1,0,0,40,f,?,no,no,India,no,2,18 and more,?,NO
+8,1,1,1,1,1,0,1,1,1,1,36,m,Others,yes,no,India,no,9,18 and more,Self,YES
+9,0,1,0,0,0,0,0,1,0,0,17,f,?,no,no,India,no,2,18 and more,Self,NO
+10,1,1,1,1,0,0,0,0,1,0,64,m,West India,no,no,India,no,5,18 and more,Self,NO
+11,1,1,0,0,0,0,0,1,1,1,29,m,southIndia,no,no,India,no,8,18 and more,Self,NO
+12,1,1,1,1,0,1,1,1,1,0,17,m,Asian,yes,yes,India,no,8,18 and more,Self,YES
+13,1,1,1,1,1,1,1,1,1,1,33,m,southIndia,no,no,India,no,10,18 and more,Self,NO
+14,0,1,0,1,1,1,1,0,0,1,18,f,Middle Eastern ,no,no,India,no,6,18 and more,Self,NO
+15,0,1,1,1,1,1,0,0,1,0,17,f,?,no,no,India,no,6,18 and more,?,NO
+16,1,0,0,0,0,0,1,1,0,1,17,m,?,no,no,India,no,4,18 and more,?,NO
+17,1,0,0,0,0,0,1,1,0,1,17,f,?,no,no,India,no,4,18 and more,?,NO
+18,1,1,0,1,1,0,0,1,0,1,18,m,Middle Eastern ,no,yes,India,no,6,18 and more,Parent,NO
+19,1,0,0,0,0,0,1,1,1,1,31,m,Middle Eastern ,no,no,India,no,5,18 and more,Self,YES
+20,0,0,0,0,0,0,0,1,0,1,30,m,Asian,no,no,India,no,6,18 and more,Self,NO
+21,0,0,1,0,1,1,0,0,0,0,35,f,Asian,no,yes,India,no,7,18 and more,Self,NO
+22,0,0,0,0,0,0,1,1,0,1,34,m,?,yes,no,India,no,3,18 and more,?,NO
+23,0,1,1,1,0,0,0,0,0,0,38,m,?,no,no,India,no,3,18 and more,?,NO
+24,0,0,0,0,0,0,0,0,0,0,27,f,Asian,no,no,India,no,0,18 and more,Self,NO
+25,0,0,0,1,0,0,1,1,1,1,27,m,Middle Eastern ,no,no,India,no,5,18 and more,Self,NO
+26,0,0,0,0,0,0,0,1,0,1,42,m,Middle Eastern ,yes,no,India,no,2,18 and more,Relative,NO
+27,1,1,1,1,0,0,0,1,0,0,43,m,?,no,no,India,no,5,18 and more,?,NO
+28,0,1,1,0,0,0,0,1,0,0,24,f,?,yes,no,India,no,3,18 and more,?,NO
+29,0,0,0,0,0,0,0,1,0,0,40,m,Asian,yes,yes,India,no,1,18 and more,Self,NO
+30,0,0,0,0,0,0,0,1,0,0,40,m,Middle Eastern ,yes,yes,India,no,1,18 and more,Parent,NO
